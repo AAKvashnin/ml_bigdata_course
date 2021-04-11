@@ -4,6 +4,7 @@
 **/.idea/**
 **/target/**
 **/project/**
+**/data/**
 *.class
 *.iml
 *.ipr
