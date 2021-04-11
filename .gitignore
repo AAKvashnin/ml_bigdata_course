@@ -1,2 +1,10 @@
 *.class
 *.log
+*.jar
+**/.idea/**
+**/target/**
+**/project/**
+*.class
+*.iml
+*.ipr
+*.iws
